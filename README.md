@@ -46,7 +46,7 @@ Sales analytics offers valuable insights into sales patterns and performance, al
 
 - DAX (Data Analysis Expressions) for creating custom calculations and measures
 
--Data modelling and relationship building using Power Pivot
+- Data modelling and relationship building using Power Pivot
 
 - Crafting dynamic reports and dashboards with Pivot Tables
   
