@@ -23,6 +23,13 @@ The primary goal of this project is to create a robust business intelligence sol
 
 Sales analytics offers valuable insights into sales patterns and performance, allowing AtliQ to make informed, strategic decisions. This analysis helps prioritize high-performing products, identify growth opportunities in key regions, and optimize sales strategies to drive profitability.
 
+Empower businesses to monitor and evaluate their sales activities and performance.
+
+- **Importance of analyzing sales data:** Identify sales patterns and track key performance indicators (KPIs).
+
+- **Role of reports:** Determine effective customer discounts, facilitate negotiations with consumers, and identify potential business expansion opportunities in promising countries.
+
+
 **Insights:**
 
 - **_Top 10 Products Report:_** Highlights products with the most significant sales increases from 2020 to 2021, providing a snapshot of customer preferences.
@@ -41,28 +48,19 @@ Sales analytics offers valuable insights into sales patterns and performance, al
 **Technical Skills:**
 
 - ETL processes (Extract, Transform, Load) for streamlined data handling
-
 - Power Query for advanced data transformation and automation
-
-- DAX (Data Analysis Expressions) for creating custom calculations and measures
-
+- DAX (Data Analysis Expressions) for creating custom calculations, calculated columns and measures
 - Data modelling and relationship building using Power Pivot
-
 - Crafting dynamic reports and dashboards with Pivot Tables
-  
 
 **Soft Skills:**
-
-- Business-oriented approach to Sales Analytics
-
+- Business-oriented approach to Sales analytics
 - Designing user-friendly, insightful reports tailored for decision-makers
-
 - Strategic report planning and structured execution
-
+- Optimization of report generation through meticulous fine-tuning
+- Developing a systematic approach to devising a report building plan.
 - Designing reports optimized for accuracy, clarity, and usability
-
 - Effectively presenting analytical insights to stakeholders
-
 
 This business intelligence solution enables AtliQ Hardware to make data-driven decisions, driving growth and operational efficiency across key markets.
 
